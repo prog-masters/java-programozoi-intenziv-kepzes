@@ -1,1 +1,3 @@
-# java-programozoi-intenziv-kepzes
+# Java programozói intenzív képzés
+
+https://progmasters.hu
